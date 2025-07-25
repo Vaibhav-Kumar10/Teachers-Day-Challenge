@@ -19,7 +19,6 @@ Welcome to my journey through the **#TeachersDayChallenge** as a part of my **#D
 |  📆 Day   | 🧠 Problem 1                                                                                                                             | 💡 Problem 2                                                                                                                          |                📂 Folder                |
 | :-------: | :------------------------------------------------------------------------------------------------------------------------------------------ | :------------------------------------------------------------------------------------------------------------------------------------------------ | :-------------------------------------: |
 | ✅ Day 1  | [Two Sum](https://leetcode.com/problems/two-sum/)                                                                   | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)                                                                                   | [📁 Day01](./Day%201%20-%2025-07-2025)  |
-|
 
 ---
 
