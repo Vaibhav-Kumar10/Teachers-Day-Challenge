@@ -16,10 +16,11 @@ Welcome to my journey through the **#TeachersDayChallenge** as a part of my **#D
 
 ## 📅 Daily Problem Log
 
-|  📆 Day  | 🧠 Problem 1                                                    | 💡 Problem 2                                                                              |           📂 Folder            |
-| :------: | :-------------------------------------------------------------- | :---------------------------------------------------------------------------------------- | :----------------------------: |
-| ✅ Day 1 | [Two Sum](https://leetcode.com/problems/two-sum/)               | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/) | [📁 Day01](./Day01_25-07-2025) |
-| ✅ Day 2 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | [Same Tree](https://leetcode.com/problems/same-tree/)                                     | [📁 Day02](./Day02_26-07-2025) |
+|  📆 Day  | 🧠 Problem 1                                                                      | 💡 Problem 2                                                                              |           📂 Folder            |
+| :------: | :-------------------------------------------------------------------------------- | :---------------------------------------------------------------------------------------- | :----------------------------: |
+| ✅ Day 1 | [Two Sum](https://leetcode.com/problems/two-sum/)                                 | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/) | [📁 Day01](./Day01_25-07-2025) |
+| ✅ Day 2 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/)                   | [Same Tree](https://leetcode.com/problems/same-tree/)                                     | [📁 Day02](./Day02_26-07-2025) |
+| ✅ Day 3 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)                   | [📁 Day03](./Day03_27-07-2025) |
 
 ---
 
