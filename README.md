@@ -22,6 +22,7 @@ Welcome to my journey through the **#TeachersDayChallenge** as a part of my **#D
 | ✅ Day 2 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/)                                   | [Same Tree](https://leetcode.com/problems/same-tree/)                                         | [📁 Day02](./Day02_26-07-2025) |
 | ✅ Day 3 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)                 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)                       | [📁 Day03](./Day03_27-07-2025) |
 | ✅ Day 4 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Min Stack](https://leetcode.com/problems/min-stack/)                                         | [📁 Day03](./Day04_28-07-2025) |
+| ✅ Day 5 | [Merge Intervals](https://leetcode.com/problems/merge-intervals/)                                 | [IMaximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree//) | [📁 Day03](./Day05_29-07-2025) |
 
 ---
 
