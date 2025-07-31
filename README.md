@@ -24,6 +24,7 @@ Welcome to my journey through the **#TeachersDayChallenge** as a part of my **#D
 | ✅ Day 4 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Min Stack](https://leetcode.com/problems/min-stack/)                                        | [📁 Day04](./Day04_28-07-2025) |
 | ✅ Day 5 | [Merge Intervals](https://leetcode.com/problems/merge-intervals/)                                 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree//) | [📁 Day05](./Day05_29-07-2025) |
 | ✅ Day 6 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)                               | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)                    | [📁 Day06](./Day06_30-07-2025) |
+| ✅ Day 7 | [A. Watermelon](https://codeforces.com/problemset/problem/4/A)                                    | [A. Way Too Long Words](https://codeforces.com/problemset/problem/71/A)                      | [📁 Day07](./Day07_31-07-2025) |
 
 ---
 
