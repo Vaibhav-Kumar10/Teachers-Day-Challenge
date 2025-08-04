@@ -29,6 +29,7 @@ Welcome to my journey through the **#TeachersDayChallenge** as a part of my **#D
 | ✅ Day 9  | [A. Petya and Strings](https://codeforces.com/problemset/problem/112/A)                           | [A. Team](https://codeforces.com/problemset/problem/231/A)                                   | [📁 Day09](./Day09_02-08-2025) |
 | ✅ Day 10 | [A. Nearly Lucky Number](https://codeforces.com/problemset/problem/110/A)                         | [A. Helpful Maths](https://codeforces.com/problemset/problem/339/A)                          | [📁 Day10](./Day10_03-08-2025) |
 | ✅ Day 11 | [A. George and Accommodation](https://codeforces.com/problemset/problem/467/A)                    | [A. Word](https://codeforces.com/problemset/problem/59/A)                                    | [📁 Day11](./Day11_04-08-2025) |
+| ✅ Day 12 | [A. Boy or Girl](https://codeforces.com/problemset/problem/467/A)                                 | [A. Stones on the Table](https://codeforces.com/problemset/problem/59/A)                     | [📁 Day12](./Day12_05-08-2025) |
 
 ---
 
