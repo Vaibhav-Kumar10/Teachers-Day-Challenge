@@ -26,7 +26,7 @@ Welcome to my journey through the **#TeachersDayChallenge** as a part of my **#D
 | ✅ Day 6 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)                               | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)                    | [📁 Day06](./Day06_30-07-2025) |
 | ✅ Day 7 | [A. Watermelon](https://codeforces.com/problemset/problem/4/A)                                    | [A. Way Too Long Words](https://codeforces.com/problemset/problem/71/A)                      | [📁 Day07](./Day07_31-07-2025) |
 | ✅ Day 8 | [A. Next Round](https://codeforces.com/problemset/problem/158/A)                                  | [A. Beautiful Matrix](https://codeforces.com/problemset/problem/263/A)                       | [📁 Day08](./Day08_01-08-2025) |
-| ✅ Day 8 | [A. Petya and Strings](https://codeforces.com/problemset/problem/112/A)                           | [A. Team](https://codeforces.com/problemset/problem/231/A)                                   | [📁 Day09](./Day09_02-08-2025) |
+| ✅ Day 9 | [A. Petya and Strings](https://codeforces.com/problemset/problem/112/A)                           | [A. Team](https://codeforces.com/problemset/problem/231/A)                                   | [📁 Day09](./Day09_02-08-2025) |
 
 ---
 
