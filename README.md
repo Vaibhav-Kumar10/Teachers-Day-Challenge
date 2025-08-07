@@ -31,6 +31,7 @@ Welcome to my journey through the **#TeachersDayChallenge** as a part of my **#D
 | ✅ Day 11 | [A. George and Accommodation](https://codeforces.com/problemset/problem/467/A)                    | [A. Word](https://codeforces.com/problemset/problem/59/A)                                    | [📁 Day11](./Day11_04-08-2025) |
 | ✅ Day 12 | [A. Boy or Girl](https://codeforces.com/problemset/problem/467/A)                                 | [A. Stones on the Table](https://codeforces.com/problemset/problem/59/A)                     | [📁 Day12](./Day12_05-08-2025) |
 | ✅ Day 13 | [B. Drinks](https://codeforces.com/problemset/problem/200/B)                                 | [A. Football](https://codeforces.com/problemset/problem/96/A)                     | [📁 Day13](./Day13_06-08-2025) |
+| ✅ Day 14 | [A. Dubstep](https://codeforces.com/problemset/problem/208/A)                                 | [A. Presents](https://codeforces.com/problemset/problem/136/A)                     | [📁 Day14](./Day14_07-08-2025) |
 
 ---
 
