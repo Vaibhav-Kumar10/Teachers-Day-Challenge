@@ -34,6 +34,7 @@ Welcome to my journey through the **#TeachersDayChallenge** as a part of my **#D
 | ✅ Day 14 | [A. Dubstep](https://codeforces.com/problemset/problem/208/A)                                     | [A. Presents](https://codeforces.com/problemset/problem/136/A)                               | [📁 Day14](./Day14_07-08-2025) |
 | ✅ Day 15 | [A. Horseshoe](https://codeforces.com/problemset/problem/228/A)                                   | [B. Queue at the School](https://codeforces.com/problemset/problem/266/B)                    | [📁 Day15](./Day15_08-08-2025) |
 | ✅ Day 16 | [B. Xenia and Ringroad](https://codeforces.com/problemset/problem/339/B)                          | [A. I Wanna Be the Guy](https://codeforces.com/problemset/problem/469/A)                     | [📁 Day16](./Day16_09-08-2025) |
+| ✅ Day 17 | [A. Sereja and Dima](https://codeforces.com/problemset/problem/381/A)                             | [A. Cheap Travel](https://codeforces.com/problemset/problem/466/A)                           | [📁 Day17](./Day17_10-08-2025) |
 
 ---
 
