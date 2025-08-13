@@ -37,6 +37,7 @@ Welcome to my journey through the **#TeachersDayChallenge** as a part of my **#D
 | ✅ Day 17 | [A. Sereja and Dima](https://codeforces.com/problemset/problem/381/A)                             | [A. Cheap Travel](https://codeforces.com/problemset/problem/466/A)                           | [📁 Day17](./Day17_10-08-2025) |
 | ✅ Day 18 | [A. Arrival of the General](https://codeforces.com/problemset/problem/144/A)                      | [A. Word Capitalization](https://codeforces.com/problemset/problem/281/A)                    | [📁 Day18](./Day18_11-08-2025) |
 | ✅ Day 19 | [A. Night at the Museum](https://codeforces.com/problemset/problem/731/A)                         | [A. Soft Drinking](https://codeforces.com/problemset/problem/151/A)                          | [📁 Day19](./Day19_12-08-2025) |
+| ✅ Day 20 | [A. Translation](https://codeforces.com/problemset/problem/731/A)                                 | [📁 Day20](./Day20_13-08-2025)                                                               |
 
 ---
 
