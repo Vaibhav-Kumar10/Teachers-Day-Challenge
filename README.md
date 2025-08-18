@@ -40,8 +40,9 @@ Welcome to my journey through the **#TeachersDayChallenge** as a part of my **#D
 | ✅ Day 20 | [A. Translation](https://codeforces.com/problemset/problem/731/A)                                 | [📁 Day20](./Day20_13-08-2025)                                                               |
 | ✅ Day 21 | [A. Twins](https://codeforces.com/problemset/problem/160/A)                                       | [📁 Day21](./Day21_14-08-2025)                                                               |
 | ✅ Day 22 | [A. Bit++](https://codeforces.com/problemset/problem/282/A)                                       | [📁 Day22](./Day22_15-08-2025)                                                               |
-| ✅ Day 23 | [A. Elephant](https://codeforces.com/problemset/problem/617/A)                                       | [📁 Day23](./Day23_16-08-2025)                                                               |
-| ✅ Day 24 | [A. Soldier and Bananas](https://codeforces.com/problemset/problem/546/A)                                       | [📁 Day24](./Day23_17-08-2025)                                                               |
+| ✅ Day 23 | [A. Elephant](https://codeforces.com/problemset/problem/617/A)                                    | [📁 Day23](./Day23_16-08-2025)                                                               |
+| ✅ Day 24 | [A. Soldier and Bananas](https://codeforces.com/problemset/problem/546/A)                         | [📁 Day24](./Day24_17-08-2025)                                                               |
+| ✅ Day 25 | [A. Fox And Snake](https://codeforces.com/problemset/problem/510/A)                               | [📁 Day25](./Day25_18-08-2025)                                                               |
 
 ---
 
