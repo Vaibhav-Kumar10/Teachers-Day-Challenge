@@ -46,7 +46,8 @@ Welcome to my journey through the **#TeachersDayChallenge** as a part of my **#D
 | ✅ Day 26 | [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)                           | [📁 Day26](./Day26_19-08-2025)                                                               |
 | ✅ Day 27 | [A. Even Odds](https://codeforces.com/problemset/problem/318/A)                                   | [📁 Day27](./Day27_20-08-2025)                                                               |
 | ✅ Day 28 | [B. Petya and Countryside](https://codeforces.com/problemset/problem/66/B)                        | [📁 Day28](./Day28_21-08-2025)                                                               |
-| ✅ Day 29 | [B. Anton and Danik](https://codeforces.com/problemset/problem/66/B)                        | [📁 Day29](./Day29_22-08-2025)                                                               |
+| ✅ Day 29 | [A. Anton and Danik](https://codeforces.com/problemset/problem/734/A)                             | [📁 Day29](./Day29_22-08-2025)                                                               |
+| ✅ Day 30 | [A. Bear and Big Brother](https://codeforces.com/problemset/problem/791/A)                        | [📁 Day30](./Day30_23-08-2025)                                                               |
 
 ---
 
