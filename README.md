@@ -48,6 +48,7 @@ Welcome to my journey through the **#TeachersDayChallenge** as a part of my **#D
 | ✅ Day 28 | [B. Petya and Countryside](https://codeforces.com/problemset/problem/66/B)                        | [📁 Day28](./Day28_21-08-2025)                                                               |
 | ✅ Day 29 | [A. Anton and Danik](https://codeforces.com/problemset/problem/734/A)                             | [📁 Day29](./Day29_22-08-2025)                                                               |
 | ✅ Day 30 | [A. Bear and Big Brother](https://codeforces.com/problemset/problem/791/A)                        | [📁 Day30](./Day30_23-08-2025)                                                               |
+| ✅ Day 31 | [A. Magnets](https://codeforces.com/problemset/problem/344/A)                                     | [📁 Day31](./Day31_24-08-2025)                                                               |
 
 ---
 
