@@ -50,6 +50,7 @@ Welcome to my journey through the **#TeachersDayChallenge** as a part of my **#D
 | ✅ Day 30 | [A. Bear and Big Brother](https://codeforces.com/problemset/problem/791/A)                        | [📁 Day30](./Day30_23-08-2025)                                                               |
 | ✅ Day 31 | [A. Magnets](https://codeforces.com/problemset/problem/344/A)                                     | [📁 Day31](./Day31_24-08-2025)                                                               |
 | ✅ Day 32 | [498. Diagonal Traverse](https://leetcode.com/problems/diagonal-traverse/)                        | [📁 Day32](./Day32_25-08-2025)                                                               |
+| ✅ Day 33 | [A. Ultra-Fast Mathematician](https://codeforces.com/problemset/problem/61/A)                     | [📁 Day33](./Day33_26-08-2025)                                                               |
 
 ---
 
