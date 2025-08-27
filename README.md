@@ -51,6 +51,7 @@ Welcome to my journey through the **#TeachersDayChallenge** as a part of my **#D
 | ✅ Day 31 | [A. Magnets](https://codeforces.com/problemset/problem/344/A)                                     | [📁 Day31](./Day31_24-08-2025)                                                               |
 | ✅ Day 32 | [498. Diagonal Traverse](https://leetcode.com/problems/diagonal-traverse/)                        | [📁 Day32](./Day32_25-08-2025)                                                               |
 | ✅ Day 33 | [A. Ultra-Fast Mathematician](https://codeforces.com/problemset/problem/61/A)                     | [📁 Day33](./Day33_26-08-2025)                                                               |
+| ✅ Day 34 | [A. Spy Detected!](https://codeforces.com/problemset/problem/1512/A)                              | [📁 Day34](./Day34_27-08-2025)                                                               |
 
 ---
 
