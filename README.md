@@ -53,6 +53,7 @@ Welcome to my journey through the **#TeachersDayChallenge** as a part of my **#D
 | ✅ Day 33 | [A. Ultra-Fast Mathematician](https://codeforces.com/problemset/problem/61/A)                     | [📁 Day33](./Day33_26-08-2025)                                                               |
 | ✅ Day 34 | [A. Spy Detected!](https://codeforces.com/problemset/problem/1512/A)                              | [📁 Day34](./Day34_27-08-2025)                                                               |
 | ✅ Day 35 | [A. Panoramix's Prediction](https://codeforces.com/problemset/problem/80/A)                       | [📁 Day35](./Day35_28-08-2025)                                                               |
+| ✅ Day 36 | [A. Lucky Division](https://codeforces.com/problemset/problem/122/A)                              | [📁 Day36](./Day36_29-08-2025)                                                               |
 
 ---
 
