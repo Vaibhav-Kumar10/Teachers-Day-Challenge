@@ -55,6 +55,7 @@ Welcome to my journey through the **#TeachersDayChallenge** as a part of my **#D
 | ✅ Day 35 | [A. Panoramix's Prediction](https://codeforces.com/problemset/problem/80/A)                       | [📁 Day35](./Day35_28-08-2025)                                                               |
 | ✅ Day 36 | [A. Lucky Division](https://codeforces.com/problemset/problem/122/A)                              | [📁 Day36](./Day36_29-08-2025)                                                               |
 | ✅ Day 37 | [A. HQ9+](https://codeforces.com/problemset/problem/133/A)                                        | [📁 Day37](./Day37_30-08-2025)                                                               |
+| ✅ Day 38 | [A. I__ love__%username%](https://codeforces.com/problemset/problem/155/A)                           | [📁 Day38](./Day38_31-08-2025)                                                               |
 
 ---
 
