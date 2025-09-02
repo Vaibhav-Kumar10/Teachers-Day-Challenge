@@ -57,6 +57,7 @@ Welcome to my journey through the **#TeachersDayChallenge** as a part of my **#D
 | ✅ Day 37 | [A. HQ9+](https://codeforces.com/problemset/problem/133/A)                                        | [📁 Day37](./Day37_30-08-2025)                                                               |
 | ✅ Day 38 | [A. I** love**%username%](https://codeforces.com/problemset/problem/155/A)                        | [📁 Day38](./Day38_31-08-2025)                                                               |
 | ✅ Day 39 | [A. Arrival of the General](https://codeforces.com/problemset/problem/144/A)                      | [📁 Day39](./Day39_01-09-2025)                                                               |
+| ✅ Day 40 | [A. Divisibility Problem](https://codeforces.com/problemset/problem/1328/A)                       | [📁 Day40](./Day40_02-09-2025)                                                               |
 
 ---
 
