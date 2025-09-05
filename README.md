@@ -60,6 +60,7 @@ Welcome to my journey through the **#TeachersDayChallenge** as a part of my **#D
 | ✅ Day 40 | [A. Divisibility Problem](https://codeforces.com/problemset/problem/1328/A)                       | [📁 Day40](./Day40_02-09-2025)                                                               |
 | ✅ Day 41 | [A. Young Physicist](https://codeforces.com/problemset/problem/69/A)                              | [📁 Day41](./Day41_03-09-2025)                                                               |
 | ✅ Day 42 | [A. Calculating Function](https://codeforces.com/problemset/problem/486/A)                        | [📁 Day42](./Day42_04-09-2025)                                                               |
+| ✅ Day 43 | [A. cAPS lOCK](https://codeforces.com/problemset/problem/131/A)                                   | [📁 Day43](./Day43_05-09-2025)                                                               |
 
 ---
 
